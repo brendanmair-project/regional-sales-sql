@@ -6,6 +6,8 @@ Revenue shows which sales channels sell the most, not which ones earn the most o
 
 **Result:** Wholesale led on average unit profit in 2020, about $903, roughly 5 to 9% ahead of the other three channels.
 
+![Average unit profit by channel, 2020: Wholesale about $903, In-Store about $860, Online about $828, Distributor about $827](images/chart.png)
+
 [Case study](https://brendanmair.pages.dev/projects/regional-sales/) · [Dashboards (Tableau Public)](https://public.tableau.com/app/profile/brendan.mair/vizzes) · [Presentation](https://gamma.app/docs/Exploring-Regional-Sales-Profitability-of-Different-Sales-Channel-gxo9ply9p9ghytj)
 
 ## What the SQL answers
