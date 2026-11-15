@@ -1,5 +1,7 @@
 # Regional Sales: which channel really earns the most per sale
 
+![Case study cover](images/cover.png)
+
 Revenue shows which sales channels sell the most, not which ones earn the most once costs are counted. This analysis builds profit from price and cost first, then compares four channels (In-Store, Online, Distributor and Wholesale) across sales teams, regions and warehouses.
 
 **Result:** Wholesale led on average unit profit in 2020, about $903, roughly 5 to 9% ahead of the other three channels.
